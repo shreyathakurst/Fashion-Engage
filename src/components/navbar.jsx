@@ -155,10 +155,9 @@ const Navbar = () => {
                 
             </Left>
             <Center>
-            <MenuItem href="Blogs">BLOGS</MenuItem>
-            <MenuItem href="">EVENTS</MenuItem>
-            <MenuItem href="">POST</MenuItem>
+            <MenuItem href="">TRY ON</MenuItem>
             <MenuItem href="https://vote-app-steel.vercel.app/">VOTE</MenuItem>
+            <MenuItem href="Blogs">BLOGS</MenuItem>
             </Center>
 
             <Right>
